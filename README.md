@@ -6,6 +6,11 @@ Soy un ingeniero en informática con experiencia en **análisis, diseño, desarr
 Me caracterizo por mi pensamiento analítico, adaptabilidad y enfoque en la resolución eficiente de problemas. Busco contribuir con soluciones innovadoras y de calidad, fortaleciendo la toma de decisiones y optimizando los procesos en las organizaciones.
 
 ---
+## 📬 Conecta conmigo
+
+[![Email](https://img.shields.io/badge/Email-rommelmorocho%40hotmail.es-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rommelmorocho@hotmail.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rommel%20Morocho-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-aqui/)
+[![GitHub](https://img.shields.io/badge/GitHub-rommelmorocho-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario-aqui)
 
 ## 🚀 **Áreas de Especialización**
 - Desarrollo de software backend con **Java / Spring Boot**
