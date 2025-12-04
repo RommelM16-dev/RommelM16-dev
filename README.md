@@ -84,7 +84,7 @@ Desarrollo full stack con Spring Boot + Angular para PYMES.
 
 ## 📫 **Contacto**
 - 📧 **Email:** rommelmorocho3@gmail.com  
-- 📍 **Ecuador**
+- 📍 **Cuenca - Ecuador**
 
 ---
 
