@@ -8,17 +8,17 @@ Me caracterizo por mi pensamiento analítico, adaptabilidad y enfoque en la reso
 ---
 ## 📬 Conecta conmigo
 
-<p align="left">
+<p align="center">
   <a href="mailto:rommelmorocho3@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
+    <img alt="Email" src="https://skillicons.dev/icons?i=gmail" width="40px" />
   </a>
 
   <a href="https://www.linkedin.com/in/rommel-morocho-o-9260a5374/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" width="40px" />
   </a>
 
   <a href="https://github.com/RommelM16-dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40px" />
+    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="40px" />
   </a>
 </p>
 
