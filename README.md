@@ -13,7 +13,7 @@ Me caracterizo por mi pensamiento analítico, adaptabilidad y enfoque en la reso
     <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
   </a>
 
-  <a href="[www.linkedin.com/in/rommel-morocho-o-9260a5374](https://www.linkedin.com/in/rommel-morocho-o-9260a5374/)" target="_blank">
+  <a href="https://www.linkedin.com/in/rommel-morocho-o-9260a5374/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
   </a>
 
