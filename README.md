@@ -8,9 +8,20 @@ Me caracterizo por mi pensamiento analítico, adaptabilidad y enfoque en la reso
 ---
 ## 📬 Conecta conmigo
 
-[![Email](https://img.shields.io/badge/Email-rommelmorocho%40hotmail.es-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rommelmorocho@hotmail.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rommel%20Morocho-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-aqui/)
-[![GitHub](https://img.shields.io/badge/GitHub-rommelmorocho-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario-aqui)
+<p align="left">
+  <a href="mailto:rommelmorocho3@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
+  </a>
+
+  <a href="www.linkedin.com/in/rommel-morocho-o-9260a5374" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+  </a>
+
+  <a href="https://github.com/RommelM16-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40px" />
+  </a>
+</p>
+
 
 ## 🚀 **Áreas de Especialización**
 - Desarrollo de software backend con **Java / Spring Boot**
