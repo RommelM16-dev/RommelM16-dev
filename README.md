@@ -10,7 +10,7 @@ Me caracterizo por mi pensamiento analítico, adaptabilidad y enfoque en la reso
 
 <p align="center">
   <a href="mailto:rommelmorocho3@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="32"/>
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/rommel-morocho-o-9260a5374/" target="_blank">
