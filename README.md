@@ -14,11 +14,11 @@ Me caracterizo por mi pensamiento analítico, adaptabilidad y enfoque en la reso
   </a>
 
   <a href="https://www.linkedin.com/in/rommel-morocho-o-9260a5374/" target="_blank">
-    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="32"/>
   </a>
 
   <a href="https://github.com/RommelM16-dev" target="_blank">
-    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="40px" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
 
